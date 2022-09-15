@@ -1,0 +1,19 @@
+/*SELECTOR UNIVERSAL*/
+*{
+    color: green;
+    font-weight: bold;
+}
+/*SELECTOR DE ELEMENTO*/
+li{
+    color: aquamarine;
+}
+/*SELECTOR DE CLASE*/
+.texto{
+    color: purple;
+    font-size: 50;
+}
+/*SELECTOR DE id*/
+#textoPorID{
+    color: gold;
+
+}
